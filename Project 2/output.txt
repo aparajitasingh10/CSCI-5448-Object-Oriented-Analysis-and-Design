@@ -1,0 +1,103 @@
+-----Zoo full of Animals------
+---------Zoo Opened----------
+************Zoo Keeper is waking up the animals***************
+Wake: Animal Hunk wakes up!
+Wake: Animal Hero wakes up!
+Wake: Animal Elliot wakes up!
+Wake: Animal Eldo wakes up!
+Wake: Animal Riley wakes up!
+Wake: Animal Rach wakes up!
+Wake: Animal Titan wakes up!
+Wake: Animal Tim wakes up!
+Wake: Animal Lufasa wakes up!
+Wake: Animal Lindor wakes up!
+Wake: Animal Chip wakes up!
+MakeNoise: Choco says Meow Meow!!
+Wake: Animal Whyte wakes up!
+Wake: Animal Warren wakes up!
+Wake: Animal Dum wakes up!
+Wake: Animal Dazz wakes up!
+***********Animals are being roll called by the Zoo Keeper***********
+MakeNoise: Hunk says Growl Growl
+MakeNoise: Hero says Growl Growl
+MakeNoise: Elliot says Trumpet Trumpet!!
+MakeNoise: Eldo says Trumpet Trumpet!!
+MakeNoise: Riley says Bellow Bellow!!
+MakeNoise: Rach says Bellow Bellow!!
+MakeNoise: Titan says Snarl Snarl!!
+MakeNoise: Tim says Snarl Snarl!!
+MakeNoise: Lufasa says Roar Roar!!
+MakeNoise: Lindor says Roar Roar!!
+Animal Chip:
+walks
+Sleep: Animal Choco sleeps
+MakeNoise: Whyte says Hey there, Little Red Riding Hood!
+MakeNoise: Warren says Hey there, Little Red Riding Hood!
+MakeNoise: Dum says Woof Woof!!
+MakeNoise: Dazz says Woof Woof!!
+**************Zoo Keeper is feeding the animals****************
+Eat: Pachyderm  Hunk  eats
+Eat: Pachyderm  Hero  eats
+Eat: Pachyderm  Elliot  eats
+Eat: Pachyderm  Eldo  eats
+Eat: Pachyderm  Riley  eats
+Eat: Pachyderm  Rach  eats
+Eat: Feline Titan eats
+Eat: Feline Tim eats
+Eat: Feline Lufasa eats
+Eat: Feline Lindor eats
+Wake: Animal Chip wakes up!
+Eat: Feline Choco eats
+Eat: Canine Whyte eats meat
+Eat: Canine Warren eats meat
+Eat: Canine Dum eats meat
+Eat: Canine Dazz eats meat
+***************Animals are told to exercise************
+Animal Hunk:
+walks
+Animal Hero:
+walks
+Animal Elliot:
+walks
+Animal Eldo:
+walks
+Animal Riley:
+walks
+Animal Rach:
+walks
+Animal Titan:
+walks
+Animal Tim:
+walks
+Animal Lufasa:
+walks
+Animal Lindor:
+walks
+Sleep: Animal Chip sleeps
+Wake: Animal Choco wakes up!
+Animal Whyte:
+walks
+Animal Warren:
+walks
+Animal Dum:
+walks
+Animal Dazz:
+walks
+***************Zoo Keeper is shutting down the zoo************
+Sleep: Animal Hunk sleeps
+Sleep: Animal Hero sleeps
+Sleep: Animal Elliot sleeps
+Sleep: Animal Eldo sleeps
+Sleep: Animal Riley sleeps
+Sleep: Animal Rach sleeps
+Sleep: Animal Titan sleeps
+Sleep: Animal Tim sleeps
+Sleep: Animal Lufasa sleeps
+Sleep: Animal Lindor sleeps
+Sleep: Animal Chip sleeps
+Eat: Feline Choco eats
+Sleep: Animal Whyte sleeps
+Sleep: Animal Warren sleeps
+Sleep: Animal Dum sleeps
+Sleep: Animal Dazz sleeps
+Zoo Closed
